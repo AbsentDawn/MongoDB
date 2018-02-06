@@ -20,7 +20,7 @@ end
 
 
 template 'etc/mongod.conf' do 
-	source 'mongod.conf.erb'	
+	source 'mongod.conf.erb'
 	owner 'mongodb'
 	group 'mongodb'
 	mode '0750'
