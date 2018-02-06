@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MongoDB
 
 ## Added Features 
